@@ -1,0 +1,109 @@
+/**/_xdc_._3kgule && _xdc_._3kgule( {
+   "results" : 
+   [
+      {
+         "address_components" : 
+         [
+            {
+               "long_name" : "18",
+               "short_name" : "18",
+               "types" : 
+               [
+                  "street_number"
+               ]
+            },
+            {
+               "long_name" : "Manhattan Avenue",
+               "short_name" : "Manhattan Ave",
+               "types" : 
+               [
+                  "route"
+               ]
+            },
+            {
+               "long_name" : "Southside",
+               "short_name" : "Southside",
+               "types" : 
+               [
+                  "neighborhood",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "Brooklyn",
+               "short_name" : "Brooklyn",
+               "types" : 
+               [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+               ]
+            },
+            {
+               "long_name" : "Kings County",
+               "short_name" : "Kings County",
+               "types" : 
+               [
+                  "administrative_area_level_2",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : 
+               [
+                  "administrative_area_level_1",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : 
+               [
+                  "country",
+                  "political"
+               ]
+            },
+            {
+               "long_name" : "11206",
+               "short_name" : "11206",
+               "types" : 
+               [
+                  "postal_code"
+               ]
+            }
+         ],
+         "formatted_address" : "18 Manhattan Ave, Brooklyn, NY 11206, USA",
+         "geometry" : 
+         {
+            "location" : 
+            {
+               "lat" : 40.7027554,
+               "lng" : -73.9439579
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : 
+            {
+               "northeast" : 
+               {
+                  "lat" : 40.7040914302915,
+                  "lng" : -73.94272196970849
+               },
+               "southwest" : 
+               {
+                  "lat" : 40.7013934697085,
+                  "lng" : -73.94541993029151
+               }
+            }
+         },
+         "place_id" : "EikxOCBNYW5oYXR0YW4gQXZlLCBCcm9va2x5biwgTlkgMTEyMDYsIFVTQSIwEi4KFAoSCT9ylVL6W8KJEVi2duoeopm-EBIqFAoSCS8-lxhaWcKJEa7kFX1MXGHA",
+         "types" : 
+         [
+            "street_address"
+         ]
+      }
+   ],
+   "status" : "OK"
+} )
